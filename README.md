@@ -87,18 +87,6 @@ Feature-based color mapping
 
 This helps in understanding the relationship between independent and dependent variables.
 
-📂 Project Structure
-multivariate-linear-regression-sklearn/
-│
-├── multivariate_linear_regression.ipynb
-├── multivariate_linear_regression.py
-└── README.md
-▶ How to Run
-1️⃣ Clone the repository
-git clone https://github.com/your-username/multivariate-linear-regression-sklearn.git
-2️⃣ Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn
-3️⃣ Run the notebook or Python script
 🎯 Key Concepts Demonstrated
 
 Supervised Learning
